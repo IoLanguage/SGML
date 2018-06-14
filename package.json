@@ -7,8 +7,8 @@
   "readme":       "README.md",
   "protos":       ["SGML"],
   "dependencies": {
-    "libs":     [],
-    "headers":  [],
+    "libs":     ["sgml"],
+    "headers":  ["sgml.h"],
     "protos":   [],
     "packages": []
   }
